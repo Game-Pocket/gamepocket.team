@@ -5,7 +5,6 @@ permalink: /about/
 ---
 
 *추후 작업 예정*
-Some information about you!
 
 ### More Information
 
