@@ -4,6 +4,7 @@ title: About
 permalink: /about/
 ---
 
+*추후 작업 예정*
 Some information about you!
 
 ### More Information
@@ -12,4 +13,4 @@ A place to include any other types of information that you'd like to include abo
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[onsemy@gmail.com](mailto:onsemy@gmail.com)
