@@ -1,11 +1,8 @@
 ---
 layout: post
-title: Hell(o) World...?
+title: Hello GamePocket's World!
 ---
 
-나도 드디어 Github Page라는 걸 써보게 되었다.
+[게임 주머니](https://github.com/Game-Pocket) 팀 페이지에 오신 것을 환영합니다!
 
-당분간은 [기존 블로그](https://blog.onsemy.me)와 병행해서 써볼 생각이지만, 이쪽이 더 괜찮다면 점진적으로 비중을 늘려나갈 계획이다.
-
-더불어 기존에 쓰던 DNS를 NameCheap에서 CloudFlare로 변경했다. [친구](https://ungikim.me)의 추천으로 옮겨타긴 했는데, 덕분에 기존 블로그와 이 페이지에 SSL을 적용할 수 있었다. 팀 페이지들도 이것으로 적용하면 적절할 것 같다.
-하나둘씩 정줄놨던 여러 가지 개발 욕구를 끌어올려야겠다...
+게임 주머니 [멤](https://github.com/goldface)[버](https://github.com/DashLee)[들](https://github.com/onsemy)과 큰웃음 빅재미가 있는 게임을 만들겠습니다 :)
