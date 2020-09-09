@@ -22,12 +22,12 @@ Dessert Princess v1.0.2 Patch Note
 
 ## 한국어
 
-1. 기능 개선 및 수정
+### 1. 기능 개선 및 수정
 - 인게임의 상단의 메뉴 모음 상태를 저장하도록 수정
 - 집사 폴의 상태 문구 수정
 - 성장수첩에 성장보너스 합계가 표시되도록 추가
 
-2. 버그 수정
+### 2. 버그 수정
 - 코인 및 코스튬 코인 소비 시 퀘스트의 수치가 감소하는 문제 수정
 - 퀘스트의 수치가 마이너스를 넘겨지지 않도록 수정
 - 집사 폴이 식사중일 때 나들이로 엔딩이 발생하면 상태가 꼬이는 문제 수정
@@ -40,12 +40,12 @@ Dessert Princess v1.0.2 Patch Note
 
 ## English
 
-1. Feature improvement
+### 1. Feature improvement
 - Modify to store a menu state on right side of screen
 - Change a butler's state text
 - Add to display a growth bonus in Growth Note
 
-2. Bug fix
+### 2. Bug fix
 - Fixed a quest condition decreased when consuming Coins and Costume coins
 - Modified so that the quest value does not exceed minus
 - Fixed the state was twisted when the ending occurred during an Picnic while the butler was eating
@@ -58,12 +58,12 @@ Dessert Princess v1.0.2 Patch Note
 
 ## 日本語
 
-1. 機能の改善と修正
+### 1. 機能の改善と修正
 - インゲームの上部のメニューバーの状態を保存するように修正
 - 執事ポールの状態フレーズ修正
 - 成長手帳に成長ボーナスの合計が表示されるように追加
 
-2. バグ修正
+### 2. バグ修正
 - コインとコスチュームコイン消費時クエストの数値が減少する問題を修正
 - クエストの数値がマイナスの渡しないように修正
 - 執事ポールが食事中に外出にエンディングが発生した場合、執事の状態が逆になる問題を修正
